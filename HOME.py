@@ -4,7 +4,7 @@ st.markdown("### Let's learn verbs with examples.")
 st.caption("Since Apr 25, 2026")
 
 # Image links
-main_image_url = "https://github.com/jihyeon0531/WordApp/raw/main/images/image1.png"
+main_image_url = "https://github.com/jihyeon0531/Mini-project/raw/main/images/image1.png"
 qr_image_url = "https://github.com/jihyeon0531/WordApp/raw/main/images/appQR.png"
 
 # Use columns to center images
