@@ -1,0 +1,51 @@
+﻿verb,type,pattern,korean_meaning,example
+start,regular,1,시작하다,The meeting starts at nine.
+arrive,regular,1,도착하다,She arrived at the airport.
+rise,irregular,1,오르다,Prices rose sharply.
+respond,regular,1,반응하다,He responded to her text.
+depart,regular,1,출발하다,The train departed on time.
+change,regular,1,변하다,The situation changed.
+hesitate,regular,1,망설이다,She hesitated before answering.
+die (device),regular,1,(기기가) 꺼지다,My phone died.
+applaud,regular,1,박수치다,The audience applauded.
+fall through,phrasal,1,무산되다,The deal fell through.
+get,irregular,2,~해지다,The coffee gets cold.
+become,irregular,2,~이 되다,She became confident.
+smell,regular,2,~한 냄새가 나다,The food smells good.
+remain,regular,2,~로 남다,He remained calm.
+sound,regular,2,~하게 들리다,That sounds weak.
+go (bad),irregular,2,(상태가) 나빠지다,The milk has gone sour.
+turn out,phrasal,2,~으로 드러나다,It turned out to be serious.
+grow,irregular,2,점점 ~해지다,Her voice grew soft.
+look,regular,2,~해 보이다,Everything looks better.
+appear,regular,2,~해 보이다,He appeared nervous.
+miss,regular,3,놓치다,I missed the point.
+handle,regular,3,처리하다,She handled the complaint.
+keep (-ing),irregular,3,계속 ~하다,He keeps checking his phone.
+launch,regular,3,출시하다,The company launched a product.
+appreciate,regular,3,감사하다,I appreciate your help.
+avoid,regular,3,피하다,She avoided eye contact.
+quit,irregular,3,그만두다,He quit his job.
+stand (can't),irregular,3,참다,I can't stand waiting.
+postpone,regular,3,연기하다,They postponed the event.
+suggest,regular,3,제안하다,She suggested trying a new approach.
+show,irregular,4,보여주다/알려주다,Could you show me the way?
+send,irregular,4,보내다,He sent her a letter.
+give,irregular,4,주다,The teacher gave us homework.
+lend,irregular,4,빌려주다,Can you lend me your charger?
+tell,irregular,4,말하다,She told me a story.
+owe,regular,4,빚지다,He owed his friend a favor.
+buy,irregular,4,사주다,My parents bought me a laptop.
+make,irregular,4,만들어주다,She made her daughter a meal.
+pass,regular,4,건네주다,Can you pass me the salt?
+offer,regular,4,제안하다,The company offered a salary.
+find,irregular,5,~임을 알다,We found the exam hard.
+keep,irregular,5,~한 상태로 유지하다,She kept her room organized.
+make,irregular,5,~하게 만들다,The news made everyone anxious.
+consider,regular,5,~로 여기다,I consider him reliable.
+have (causative),irregular,5,~하게 하다(사역),She had her hair cut.
+elect,regular,5,~로 선출하다,They elected him president.
+leave,irregular,5,~한 상태로 두다,The journey left us exhausted.
+want,regular,5,~가 ~하기를 원하다,I want you to check the report.
+name,regular,5,~라고 이름 붙이다,She named her cat Luna.
+make (causative),irregular,5,~하게 만들다(사역),His words made me feel understood.

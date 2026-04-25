@@ -1,0 +1,6 @@
+﻿pattern_no,pattern_name,structure,example,key_verbs
+1,1형식 (완전자동사),S + V,The baby cried all night.,"go, come, arrive, rise, fall, appear, exist, happen"
+2,2형식 (불완전자동사),S + V + SC,She became a doctor.,"be, become, get, grow, turn, seem, look, feel, sound, smell, taste, remain, appear"
+3,3형식 (완전타동사),S + V + O,He loves music.,"love, hate, want, need, like, miss, avoid, enjoy, suggest, consider, quit, postpone"
+4,4형식 (수여동사),S + V + IO + DO,She gave me a gift.,"give, send, show, tell, teach, buy, make, lend, pass, offer, owe"
+5,5형식 (불완전타동사),S + V + O + OC,They made him angry.,"make, keep, find, leave, name, call, elect, want, have, let, get"
