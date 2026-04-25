@@ -1,16 +1,16 @@
 import streamlit as st
+from pathlib import Path
 
-st.markdown("### Let's learn verbs with examples.")
-st.caption("Since Apr 25, 2026")
+st.set_page_config(
+    page_title="Verb Pattern Learning App",
+    page_icon="🐥",
+    layout="wide"
+)
 
-# Image links
-main_image_url = "https://github.com/jihyeon0531/Mini-project/raw/main/images/image1.png"
-qr_image_url = "https://github.com/jihyeon0531/WordApp/raw/main/images/appQR.png"
+BASE_DIR = Path(__file__).resolve().parent
+image_path = BASE_DIR / "images" / "main_chick.png"
 
-# Use columns to center images
-col1, col2, col3 = st.columns([1, 2, 1])  # middle column bigger
+st.title("Verb Pattern Learning App")
+st.image(str(image_path), use_container_width=True)
 
-with col1:
-    st.image(main_image_url, width=500, caption="Welcome Image")  # Expand button appears
-with col3:
-    st.image(qr_image_url, width=50, caption="QR")  # Expand button appear
+st.markdown("## I will memorize all the verbs!")
