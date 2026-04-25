@@ -12,5 +12,3 @@ image_path = BASE_DIR / "images" / "main_chick.png"
 
 st.title("Verb Pattern Learning App")
 st.image(str(image_path), use_container_width=True)
-
-st.markdown("## I will memorize all the verbs!")
