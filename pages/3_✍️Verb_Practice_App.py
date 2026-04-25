@@ -26,7 +26,7 @@ REQUIRED_COLUMNS = [
     "difficulty", "feedback_correct", "feedback_wrong",
 ]
 
-st.set_page_config(page_title="✍️Verb Practice App", page_icon="✍️", layout="centered")
+st.set_page_config(page_title="Verb Practice App", page_icon="✍️", layout="centered")
 
 st.markdown(
     """
