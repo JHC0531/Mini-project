@@ -42,7 +42,7 @@ REQUIRED_COLUMNS = [
 ]
 
 st.set_page_config(
-    page_title="Verb Practice App",
+    page_title="✍️Verb Practice App",
     page_icon="✅",
     layout="centered",
 )
