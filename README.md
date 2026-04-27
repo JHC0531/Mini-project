@@ -64,7 +64,9 @@ This app could be improved by adding:
 
 ## 9. App Link
 
-[APP link]:(https://verblearning.streamlit.app/)
+APP link: https://verblearning.streamlit.app/
+
+[Open Verb Learning App](https://verblearning.streamlit.app/)
 
 ## 10. Reflection
 
