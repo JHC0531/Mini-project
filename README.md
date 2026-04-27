@@ -68,4 +68,5 @@ This app could be improved by adding:
 
 ## 10. Reflection
 
-Through this project, I found it impressive that app development can provide learning support that I had felt was necessary in the actual classroom.
+Through this project, I learned that app development can be a practical way to address learning needs I have observed in the classroom.  
+It was meaningful to see how a simple app can support students’ grammar learning and provide additional practice beyond regular lessons.
