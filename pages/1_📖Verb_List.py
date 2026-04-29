@@ -209,7 +209,6 @@ if not GTTS_AVAILABLE:
 
 metric_col1, metric_col2 = st.columns(2)
 metric_col1.metric("전체 동사 수", f"{len(df)}개")
-metric_col2.metric("문장 형식", f"{df['pattern'].nunique()}개")
 
 st.markdown("---")
 st.subheader("🎨 색깔로 보는 문장 형식")
