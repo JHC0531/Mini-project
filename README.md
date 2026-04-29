@@ -27,6 +27,8 @@ Users can:
 - Infer the appropriate verb that fits in the blank
 - Check the correct answer
 - Receive feedback explaining why the verb should be used in the blank
+- read explanations of each sentence pattern through the Pattern Guide
+- practice sentence patterns based on the guide
 
 ## 5. Classroom or Self-Study Use
 
