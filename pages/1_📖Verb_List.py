@@ -254,7 +254,7 @@ else:
 
 st.markdown("---")
 st.subheader("🔊 Audio Practice Cards")
-st.info("한 줄에 두 개의 카드가 보이도록 배치했습니다. 단어를 먼저 보고, 뜻과 예문을 작게 확인한 뒤 발음을 들어보세요.")
+st.info("단어를 먼저 보고, 뜻과 예문을 확인한 뒤 발음을 들어보세요.")
 
 if filtered_df.empty:
     st.warning("조건에 맞는 동사가 없습니다. 검색어나 필터를 바꿔보세요.")
