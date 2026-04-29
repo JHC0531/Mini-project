@@ -9,7 +9,7 @@ st.set_page_config(
 
 BASE_DIR = Path(__file__).resolve().parent
 main_image_path = BASE_DIR / "images" / "main_chick.png"
-qr_image_path = BASE_DIR / "images" / "app-qr.png"
+qr_image_path = BASE_DIR / "images" / "app_qr.png"
 
 st.title("Verb Pattern Learning App")
 st.caption("Made by 조재민, 최지현")
