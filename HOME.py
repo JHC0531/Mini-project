@@ -8,7 +8,18 @@ st.set_page_config(
 )
 
 BASE_DIR = Path(__file__).resolve().parent
-image_path = BASE_DIR / "images" / "main_chick.png"
+main_image_path = BASE_DIR / "images" / "main_chick.png"
+qr_image_path = BASE_DIR / "images" / "app-qr.png"
 
 st.title("Verb Pattern Learning App")
-st.image(str(image_path), use_container_width=True)
+st.caption("Made by 조재민, 최지현")
+
+st.image(str(main_image_path), use_container_width=True)
+
+st.markdown("---")
+
+col1, col2 = st.columns([5, 1])
+
+with col2:
+    st.caption("Scan here")
+    st.image(str(qr_image_path), width=120)
