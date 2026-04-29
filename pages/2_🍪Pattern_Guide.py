@@ -360,12 +360,3 @@ with tab1:
     render_learning_tab(pattern_df, practice_df, verb_df)
 with tab2:
     render_quiz_tab(pattern_df)
-
-with st.expander("수업 활용 아이디어", expanded=False):
-    st.markdown(
-        """
-        - 먼저 학생들에게 **한글 의미**를 읽게 한 뒤, 영어 문장의 구조를 찾게 해보세요.
-        - `S`, `V`, `O`, `C` 기호를 외우게 하기보다, **누가 / 무엇을 / 어떤 상태로** 같은 질문으로 접근하면 쉽습니다.
-        - Pattern Quiz를 짧게 풀고 Practice App으로 넘어가면 형식 인식이 더 자연스러워집니다.
-        """
-    )
